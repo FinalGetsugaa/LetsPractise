@@ -1,2 +1,0 @@
-I have written a statement .
-I want to undo changes written after this line.
